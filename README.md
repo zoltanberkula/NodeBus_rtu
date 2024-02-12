@@ -16,6 +16,11 @@
 - Serial data parsing capabalities
 - Virtual Hardware simulation
 
+
+## System Design
+
+![image](systemUML.jpg)
+
 ## Tech
 
 - [NodeJS]
